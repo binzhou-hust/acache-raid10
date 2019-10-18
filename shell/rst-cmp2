@@ -1,0 +1,436 @@
+recovery start, cnt:1778327
+recovery_current_offset:550829555712
+pt->cnt:1985256
+disk: 0,	avg lat: 216798,	io num: 4839	
+disk: 1,	avg lat: 134284,	io num: 4425	
+disk: 2,	avg lat: 285109,	io num: 4439	
+disk: 3,	avg lat: 190203,	io num: 4765	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:551903297536
+pt->cnt:2403858
+disk: 0,	avg lat: 419427,	io num: 15545	
+disk: 1,	avg lat: 284125,	io num: 14584	
+disk: 2,	avg lat: 135229,	io num: 14692	
+disk: 3,	avg lat: 69107,	io num: 15341	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:552977039360
+pt->cnt:2775288
+disk: 0,	avg lat: 340534,	io num: 24052	
+disk: 1,	avg lat: 118310,	io num: 23198	
+disk: 2,	avg lat: 173659,	io num: 23462	
+disk: 3,	avg lat: 101995,	io num: 24269	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:554050781184
+pt->cnt:2976832
+disk: 0,	avg lat: 354849,	io num: 28818	
+disk: 1,	avg lat: 219645,	io num: 27911	
+disk: 2,	avg lat: 199279,	io num: 28214	
+disk: 3,	avg lat: 136527,	io num: 29268	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+spc-fin,1,lru,8,8,26.99,1280000
+request pages:5561907,disk_ios:560369,real_disk_ios:121875
+recovery time:299942080 us
+disk:0, lat:42931, io num:30759
+disk:1, lat:19638, io num:29786
+disk:2, lat:21786, io num:30060
+disk:3, lat:17780, io num:31247
+avg_lat:25571
+total recovered :4534042624
+
+Close trace file success!
+Reclaim algorithm success!
+Reclaim raid success!
+recovery start, cnt:1778327
+recovery_current_offset:550829555712
+pt->cnt:1867774
+disk: 0,	avg lat: 433187,	io num: 1296	
+disk: 1,	avg lat: 384529,	io num: 2909	
+disk: 2,	avg lat: 321105,	io num: 2383	
+disk: 3,	avg lat: 301814,	io num: 3382	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:551903297536
+pt->cnt:1968378
+disk: 0,	avg lat: 443344,	io num: 3030	
+disk: 1,	avg lat: 651084,	io num: 6520	
+disk: 2,	avg lat: 348654,	io num: 6020	
+disk: 3,	avg lat: 454738,	io num: 7885	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:552977039360
+pt->cnt:2046593
+disk: 0,	avg lat: 558999,	io num: 4524	
+disk: 1,	avg lat: 686272,	io num: 9615	
+disk: 2,	avg lat: 512960,	io num: 9510	
+disk: 3,	avg lat: 196525,	io num: 12325	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:554050781184
+pt->cnt:2147002
+disk: 0,	avg lat: 425990,	io num: 6455	
+disk: 1,	avg lat: 372702,	io num: 13508	
+disk: 2,	avg lat: 316183,	io num: 12882	
+disk: 3,	avg lat: 351280,	io num: 17260	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:555124523008
+pt->cnt:2241445
+disk: 0,	avg lat: 566199,	io num: 8069	
+disk: 1,	avg lat: 573040,	io num: 17875	
+disk: 2,	avg lat: 825555,	io num: 16982	
+disk: 3,	avg lat: 834008,	io num: 21965	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:556198264832
+pt->cnt:2326158
+disk: 0,	avg lat: 184273,	io num: 9503	
+disk: 1,	avg lat: 347598,	io num: 21460	
+disk: 2,	avg lat: 704165,	io num: 20165	
+disk: 3,	avg lat: 472457,	io num: 26087	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:557272006656
+pt->cnt:2418718
+disk: 0,	avg lat: 322670,	io num: 10943	
+disk: 1,	avg lat: 562603,	io num: 25743	
+disk: 2,	avg lat: 372773,	io num: 23668	
+disk: 3,	avg lat: 352800,	io num: 30306	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:558345748480
+pt->cnt:2481590
+disk: 0,	avg lat: 584614,	io num: 12238	
+disk: 1,	avg lat: 467978,	io num: 29819	
+disk: 2,	avg lat: 431784,	io num: 26650	
+disk: 3,	avg lat: 611632,	io num: 34274	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:559419490304
+pt->cnt:2567481
+disk: 0,	avg lat: 606088,	io num: 13599	
+disk: 1,	avg lat: 573812,	io num: 33404	
+disk: 2,	avg lat: 756033,	io num: 30061	
+disk: 3,	avg lat: 475736,	io num: 38753	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:560493232128
+pt->cnt:2669498
+disk: 0,	avg lat: 600898,	io num: 15335	
+disk: 1,	avg lat: 687080,	io num: 37585	
+disk: 2,	avg lat: 494322,	io num: 34185	
+disk: 3,	avg lat: 639206,	io num: 43666	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:561566973952
+pt->cnt:2767584
+disk: 0,	avg lat: 381893,	io num: 17235	
+disk: 1,	avg lat: 476577,	io num: 41737	
+disk: 2,	avg lat: 439860,	io num: 38154	
+disk: 3,	avg lat: 518814,	io num: 48925	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:562640715776
+pt->cnt:2873879
+disk: 0,	avg lat: 1380559,	io num: 19252	
+disk: 1,	avg lat: 867196,	io num: 45978	
+disk: 2,	avg lat: 596165,	io num: 42057	
+disk: 3,	avg lat: 451463,	io num: 53930	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:563714457600
+pt->cnt:2963706
+disk: 0,	avg lat: 955776,	io num: 20836	
+disk: 1,	avg lat: 1049162,	io num: 49665	
+disk: 2,	avg lat: 410766,	io num: 45400	
+disk: 3,	avg lat: 874415,	io num: 58445	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:564788199424
+pt->cnt:3047576
+disk: 0,	avg lat: 517933,	io num: 22334	
+disk: 1,	avg lat: 490011,	io num: 53494	
+disk: 2,	avg lat: 601532,	io num: 48978	
+disk: 3,	avg lat: 235192,	io num: 63347	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+spc-fin,1,alru,8,8,26.99,1280000
+request pages:5561907,disk_ios:629319,real_disk_ios:190599
+recovery time:432516175 us
+disk:0, lat:47230, io num:22581
+disk:1, lat:40519, io num:54301
+disk:2, lat:41603, io num:49501
+disk:3, lat:38817, io num:64200
+avg_lat:41022
+total recovered :15221129216
+
+Close trace file success!
+Reclaim algorithm success!
+Reclaim raid success!
+recovery start, cnt:6048966
+recovery_current_offset:550829555712
+pt->cnt:6372699
+disk: 0,	avg lat: 450994,	io num: 5201	
+disk: 1,	avg lat: 189127,	io num: 5188	
+disk: 2,	avg lat: 269338,	io num: 5168	
+disk: 3,	avg lat: 207468,	io num: 5082	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:551903297536
+pt->cnt:6502511
+disk: 0,	avg lat: 531299,	io num: 5311	
+disk: 1,	avg lat: 368954,	io num: 5334	
+disk: 2,	avg lat: 389779,	io num: 5301	
+disk: 3,	avg lat: 136063,	io num: 5214	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:552977039360
+pt->cnt:6819271
+disk: 0,	avg lat: 172552,	io num: 11148	
+disk: 1,	avg lat: 177561,	io num: 11348	
+disk: 2,	avg lat: 76685,	io num: 11141	
+disk: 3,	avg lat: 53470,	io num: 11139	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:554050781184
+pt->cnt:7305526
+disk: 0,	avg lat: 467385,	io num: 20878	
+disk: 1,	avg lat: 86219,	io num: 21113	
+disk: 2,	avg lat: 222350,	io num: 20726	
+disk: 3,	avg lat: 212461,	io num: 20844	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:555124523008
+pt->cnt:7305526
+disk: 0,	avg lat: 467385,	io num: 20878	
+disk: 1,	avg lat: 86219,	io num: 21113	
+disk: 2,	avg lat: 222350,	io num: 20726	
+disk: 3,	avg lat: 212461,	io num: 20844	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:556198264832
+pt->cnt:7305526
+disk: 0,	avg lat: 467385,	io num: 20878	
+disk: 1,	avg lat: 86219,	io num: 21113	
+disk: 2,	avg lat: 222350,	io num: 20726	
+disk: 3,	avg lat: 212461,	io num: 20844	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:557272006656
+pt->cnt:7467830
+disk: 0,	avg lat: 265924,	io num: 26175	
+disk: 1,	avg lat: 61253,	io num: 26361	
+disk: 2,	avg lat: 124058,	io num: 26085	
+disk: 3,	avg lat: 57120,	io num: 26060	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:558345748480
+pt->cnt:7648179
+disk: 0,	avg lat: 183372,	io num: 33412	
+disk: 1,	avg lat: 10777,	io num: 33653	
+disk: 2,	avg lat: 11619,	io num: 33433	
+disk: 3,	avg lat: 11151,	io num: 33271	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:559419490304
+pt->cnt:7779218
+disk: 0,	avg lat: 431331,	io num: 36477	
+disk: 1,	avg lat: 283339,	io num: 36717	
+disk: 2,	avg lat: 118543,	io num: 36500	
+disk: 3,	avg lat: 205078,	io num: 36364	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+ms-dtrs,1,lru,8,128,15.20,1900000
+request pages:24154497,disk_ios:6981480,real_disk_ios:147976
+recovery time:369368434 us
+disk:0, lat:66306, io num:36895
+disk:1, lat:16073, io num:37216
+disk:2, lat:20256, io num:36959
+disk:3, lat:12506, io num:36818
+avg_lat:28762
+total recovered :10389291008
+
+Close trace file success!
+Reclaim algorithm success!
+Reclaim raid success!
+recovery start, cnt:6048966
+recovery_current_offset:550829555712
+pt->cnt:6346715
+disk: 0,	avg lat: 336651,	io num: 4151	
+disk: 1,	avg lat: 273550,	io num: 5790	
+disk: 2,	avg lat: 349244,	io num: 5282	
+disk: 3,	avg lat: 347956,	io num: 5755	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:551903297536
+pt->cnt:6477272
+disk: 0,	avg lat: 273408,	io num: 4233	
+disk: 1,	avg lat: 82931,	io num: 5967	
+disk: 2,	avg lat: 108298,	io num: 5397	
+disk: 3,	avg lat: 231913,	io num: 5935	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:552977039360
+pt->cnt:6592258
+disk: 0,	avg lat: 548696,	io num: 4370	
+disk: 1,	avg lat: 395004,	io num: 6205	
+disk: 2,	avg lat: 538646,	io num: 5729	
+disk: 3,	avg lat: 362163,	io num: 6149	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:554050781184
+pt->cnt:7305526
+disk: 0,	avg lat: 216742,	io num: 15598	
+disk: 1,	avg lat: 109621,	io num: 22048	
+disk: 2,	avg lat: 447061,	io num: 20871	
+disk: 3,	avg lat: 224140,	io num: 22679	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:555124523008
+pt->cnt:7305526
+disk: 0,	avg lat: 216742,	io num: 15598	
+disk: 1,	avg lat: 109621,	io num: 22048	
+disk: 2,	avg lat: 447061,	io num: 20871	
+disk: 3,	avg lat: 224140,	io num: 22679	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:556198264832
+pt->cnt:7305526
+disk: 0,	avg lat: 216742,	io num: 15598	
+disk: 1,	avg lat: 109621,	io num: 22048	
+disk: 2,	avg lat: 447061,	io num: 20871	
+disk: 3,	avg lat: 224140,	io num: 22679	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:557272006656
+pt->cnt:7305526
+disk: 0,	avg lat: 216742,	io num: 15598	
+disk: 1,	avg lat: 109621,	io num: 22048	
+disk: 2,	avg lat: 447061,	io num: 20871	
+disk: 3,	avg lat: 224140,	io num: 22679	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:558345748480
+pt->cnt:7421586
+disk: 0,	avg lat: 250092,	io num: 18802	
+disk: 1,	avg lat: 38374,	io num: 26110	
+disk: 2,	avg lat: 75919,	io num: 24978	
+disk: 3,	avg lat: 38650,	io num: 27115	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:559419490304
+pt->cnt:7528825
+disk: 0,	avg lat: 65902,	io num: 21108	
+disk: 1,	avg lat: 60770,	io num: 29755	
+disk: 2,	avg lat: 104144,	io num: 28667	
+disk: 3,	avg lat: 64053,	io num: 30893	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:560493232128
+pt->cnt:7651221
+disk: 0,	avg lat: 237302,	io num: 24432	
+disk: 1,	avg lat: 43083,	io num: 34745	
+disk: 2,	avg lat: 23091,	io num: 33691	
+disk: 3,	avg lat: 42752,	io num: 37750	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+recovery_current_offset:561566973952
+pt->cnt:7756071
+disk: 0,	avg lat: 193961,	io num: 26321	
+disk: 1,	avg lat: 208742,	io num: 37644	
+disk: 2,	avg lat: 365128,	io num: 36690	
+disk: 3,	avg lat: 14478,	io num: 44083	
+disk: 4,	avg lat: 0,	io num: 0	
+disk: 5,	avg lat: 0,	io num: 0	
+disk: 6,	avg lat: 0,	io num: 0	
+disk: 7,	avg lat: 0,	io num: 0	
+ms-dtrs,1,alru,8,128,15.20,1900000
+request pages:24154497,disk_ios:6984366,real_disk_ios:150565
+recovery time:370406035 us
+disk:0, lat:46689, io num:26701
+disk:1, lat:24842, io num:38222
+disk:2, lat:25137, io num:37238
+disk:3, lat:16678, io num:48316
+avg_lat:26170
+total recovered :12880707584
+
+Close trace file success!
+Reclaim algorithm success!
+Reclaim raid success!
